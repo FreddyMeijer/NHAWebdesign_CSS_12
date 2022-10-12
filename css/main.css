@@ -1,0 +1,113 @@
+header,footer{
+    background-color: brown;
+    width:815px;
+    height: 50px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Helvetica;
+    color: whitesmoke;
+  }
+  body{
+    font-family: Helvetica;   
+  }
+  table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Helvetica;
+    table-layout: fixed;
+    width: 50;
+    text-align: left;
+    vertical-align: top;
+  }
+  td{
+    width: 200px;
+    height: 100px;
+    font-family: Helvetica;
+  }
+  img{
+    width: 200px;
+    height: 100px;
+  }
+  #huisvlieg{
+    background-color:#e7aa95;
+    font-weight: bold;
+  }
+  #steekmug{
+    background-color: #f1b841;
+    font-weight: bold;
+  }
+  #zilvervisje{
+    background-color: #91af11;
+    font-weight: bold;
+  }
+  #mier{
+    background-color: #c9aa7e;
+    font-weight: bold;
+  }
+  #wesp{
+    background-color: #f0d88e;
+    font-weight: bold;
+  }
+  #vlooien{
+    background-color: #b42825;
+    font-weight: bold;   
+  }
+  #bedwants{
+    background-color: rgb(100,0,0);
+    color: white;
+    font-weight: bold;   
+  }
+  #boktor{
+    background-color: rgb(0,100,0);
+    color: white;
+    font-weight: bold;   
+  }
+  #r1k1{
+    background-color: darkgreen;
+  }
+  #r1k2{
+    background-color: green;
+  }
+  #r1k3{
+    background-color: #556B2F;
+  }
+  #r1k4{
+    background-color: #228B22;
+  }
+  #r2k1{
+    background-color: mediumvioletred;
+  }
+  #r2k2{
+    background-color: rgb(255,20,147);
+  }
+  #r2k3{
+    background-color: rgb(219,112,147);
+  }
+  #r2k4{
+    background-color: #ff69b4;
+  }
+  #r3k1{
+    background-color: teal;
+  }
+  #r3k2{
+    background-color: rgb(0,139,139);
+  }
+  #r3k3{
+    background-color: #20B2AA;
+  }
+  #r3k4{
+    background-color: cadetblue;
+  }
+  #r4k1{
+    background-color: #EE82EE;
+  }
+  #r4k2{
+    background-color: plum;
+  }
+  #r4k3{
+    background-color: thistle;
+  }
+  #r4k4{
+    background-color: lavender;
+  }
+
